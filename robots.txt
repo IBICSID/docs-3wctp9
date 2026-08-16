@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-odd42r.juragan89alt.site/sitemap.xml
